@@ -1,0 +1,17 @@
+schema_version = "1.0.0"
+id = "multires_morph_studio"
+version = "1.0.0"
+name = "Multires Morph Studio"
+tagline = "Capture Multires sculpts into Shape Keys non-destructively"
+maintainer = "LowPolyPotato"
+type = "add-on"
+tags = ["Sculpt"]
+
+blender_version_min = "4.2.0"
+
+license = [
+  "SPDX:GPL-3.0-or-later"
+]
+
+website = "https://github.com/simionescuteodor7-spec/multires-morph-studio"
+support = "https://github.com/simionescuteodor7-spec/multires-morph-studio/issues"
